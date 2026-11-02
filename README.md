@@ -14,3 +14,21 @@ Links
 - Online version: https://copy.sh/life/
 - List of examples: https://copy.sh/life/examples/
 - Source of examples (direct link): http://www.conwaylife.com/patterns/all.zip
+
+
+## Summary
+
+A fork of [copy/life](https://github.com/copy/life). Conway's Game of Life in the browser, with an infinite field and Hashlife.
+
+## What's inside
+
+`index.html`, `life.js`, `macrocell.js`, `draw.js`, `formats.js`, `main.js`, `examples/` and `bench/`.
+
+## How to view or run it
+
+Serve the folder and open `index.html`, or use the online version linked above.
+
+## Credit
+
+The original work is by [copy/life](https://github.com/copy/life).
+
